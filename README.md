@@ -62,6 +62,18 @@ Our growing community of developers, enthusiasts, and AI practitioners is here t
 - Follow us on [X](https://x.com/FeatherlessAI) for the latest updates
 - Try out [DeepSeek-R1](https://featherless.ai/blog/deepseek-r1-available-for-premium-users) with unlimited tokens on our premium plan!
 
+## 🏗️ Architecture Documentation
+
+Comprehensive architecture documentation with Mermaid diagrams is available:
+
+📚 **[Architecture Documentation](./docs/architecture/README.md)** - Explore the cognitive architecture and system design
+
+- 🏗️ [System Overview](./docs/architecture/system-overview.md) - High-level architectural patterns and cognitive flows
+- 🔄 [Component Interactions](./docs/architecture/component-interactions.md) - Module relationships and bidirectional synergies  
+- 📊 [Data Flow Analysis](./docs/architecture/data-flow.md) - Signal propagation pathways and state management
+- 🧠 [Cognitive Patterns](./docs/architecture/cognitive-patterns.md) - Neural-symbolic integration and emergent behaviors
+- ⚙️ [Implementation Pathways](./docs/architecture/implementation-pathways.md) - Recursive patterns and optimization strategies
+
 ## 📝 License
 
 MIT
